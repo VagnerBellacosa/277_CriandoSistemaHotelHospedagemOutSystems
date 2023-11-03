@@ -22,11 +22,11 @@ Desenvolva um Sistema de Hotel e Hospedagem eficiente e intuitivo utilizando a p
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/ce9edb13-2003-4fbb-8192-9b40c9124822.jpg)
+! - [author](https://hermes.dio.me/users/author/photos/ce9edb13-2003-4fbb-8192-9b40c9124822.jpg)
 
 ###### Thiago Mari
 
-Outsystems Expert, OutSystems Expert Mentor[**](https://www.linkedin.com/in/thiago-mari/)
+Outsystems Expert, OutSystems Expert Mentor - [**](https://www.linkedin.com/in/thiago-mari/)
 
 
 
@@ -38,13 +38,13 @@ https://web.dio.me/project/novas-funcionalidades-diohotel/learning/bbe114df-b54c
 
 
 
-[**](https://web.dio.me/track/formacao-outsystems-fundamentals)
+ - [**](https://web.dio.me/track/formacao-outsystems-fundamentals)
 
 ##### Criando um Sistema para Hotel e Hospedagem com OutSystems
 
 **
 
-[**](https://web.dio.me/lab/novas-funcionalidades-diohotel/learning/bbe114df-b54c-4ba3-967f-d4fa9112b991)[**](https://web.dio.me/lab/novas-funcionalidades-diohotel/learning/undefined)
+ - [**](https://web.dio.me/lab/novas-funcionalidades-diohotel/learning/bbe114df-b54c-4ba3-967f-d4fa9112b991) - [**](https://web.dio.me/lab/novas-funcionalidades-diohotel/learning/undefined)
 
 # Entendendo o Desafio
 
@@ -72,7 +72,7 @@ https://web.dio.me/project/novas-funcionalidades-diohotel/learning/bbe114df-b54c
 
 ### **Instruções para o Desafio**
 
- [Desafio de Projeto 1 - Novas Funcionalidades – DIOHotel.docx](https://academiapme-my.sharepoint.com/:w:/g/personal/kawan_dio_me/Eb2wJRrkilxJuXOIC2PWRW0BmYLss83Ra90WuJ_rv3tUZg?e=ZRx0vN)
+  - [Desafio de Projeto 1 - Novas Funcionalidades – DIOHotel.docx](https://academiapme-my.sharepoint.com/:w:/g/personal/kawan_dio_me/Eb2wJRrkilxJuXOIC2PWRW0BmYLss83Ra90WuJ_rv3tUZg?e=ZRx0vN)
 
  
 
@@ -80,7 +80,7 @@ https://web.dio.me/project/novas-funcionalidades-diohotel/learning/bbe114df-b54c
 
 ### **Dúvidas sobre como instalar e usar o Github?**
 
-[Assista essa aula curta com nosso expert Felipe Aguiar, clicando aqui.](https://web.dio.me/lives/primeiros-passos-com-git-e-github)
+ - [Assista essa aula curta com nosso expert Felipe Aguiar, clicando aqui.](https://web.dio.me/lives/primeiros-passos-com-git-e-github)
 
  
 
